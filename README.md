@@ -1,2 +1,2 @@
-# ServoLNN
-Lagrangian Neural Networks Driven by Servomechanisms
+# ServoLNN: Lagrangian Neural Networks Driven by Servomechanisms
+Coming soon.
